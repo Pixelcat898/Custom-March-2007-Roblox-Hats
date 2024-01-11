@@ -1,0 +1,2 @@
+To create a custom hat, copy the "FinalTest" Part and open its "HatScript" script.
+You can also edit the apperance of the hat to your choice.
